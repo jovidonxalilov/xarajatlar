@@ -1,5 +1,5 @@
 import 'package:exspenses/core/utils/app_colors.dart';
-import 'package:exspenses/features/home/page/text_form_fiedl_widget.dart';
+import 'package:exspenses/features/xarajatlar/page/text_form_fiedl_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
